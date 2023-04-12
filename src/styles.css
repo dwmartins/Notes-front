@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+:root {
+    --bg-blue: #00BAC7;
+    --bg-blue-hover: #079ea8;
+    --bg-white: #fff;
+    
+
+    --font-black: #252525;
+}
+
+:root .dark_mode {
+    --bg-blue: #00BAC7;
+    --bg-blue-hover: #079ea8;
+    --bg-white: #252525;
+    
+
+    --font-black: #d1d1d1;
+}
